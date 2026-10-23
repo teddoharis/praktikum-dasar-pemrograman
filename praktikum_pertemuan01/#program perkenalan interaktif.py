@@ -1,0 +1,11 @@
+#program perkenalan interaktif
+print("===Program Perenalan Diri===")
+nama = input("Siapa nama anda? ")
+nim = int(input("Berapa nim anda? "))
+kota = input("Darimana anda berasal? ")
+tahun_masuk = int(input("Tahun berapa anda masuk? "))
+print()
+print("Halo, perkenalkan nama saya", nama)
+print("NIM saya adalah", nim)
+print("Saya berasal dari", kota)
+print("Saya mulai kuliah pada tahun", tahun_masuk)

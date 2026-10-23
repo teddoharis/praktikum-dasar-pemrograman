@@ -1,0 +1,6 @@
+#program ganjil genap
+n = int(input("masukkan bilangan "))
+if n % 2 == 0:
+    print(n, "adalah bilangan genap")
+else:
+    print(n, "adalah bilangan ganjil")
